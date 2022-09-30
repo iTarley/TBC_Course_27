@@ -12,7 +12,7 @@ Password Screen application
 
 
 Preview :
-<img src="https://user-images.githubusercontent.com/95241918/193206622-f75d8a5f-5d83-44f4-a09e-92b40d429337.png" width="223" height="480"/>
+<img src="https://user-images.githubusercontent.com/95241918/193208539-6ac59e5b-9e0e-4ee3-9067-c517f0b95971.png" width="223" height="480"/>
 
 
 ## Authors
